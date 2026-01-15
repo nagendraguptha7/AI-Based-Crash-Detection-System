@@ -155,5 +155,5 @@ Trains a production-grade ML model
 Runs live inference on a real machine
 
 
-This is how real monitoring and failure-prediction systems used in data centers and cloud platforms are built.
+
 
